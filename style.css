@@ -1,0 +1,10 @@
+.first{
+    filter: grayscale(100%);
+}
+.last{
+    filter: grayscale(100%)
+}
+
+.para{
+    filter: grayscale(100%)
+}
